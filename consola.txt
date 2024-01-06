@@ -1,0 +1,14 @@
+// desinstalar version anterior
+npm uninstall -g @angular/cli
+
+// instalar
+npm install -g @angular/cli
+
+// crear un nuevo proyecto de Angular
+ng new proyecto1
+
+// Entrar dentro de la carpeta
+cd proyecto1
+
+// Compilar y servir
+ng serve
