@@ -12,3 +12,6 @@ cd proyecto1
 
 // Compilar y servir
 ng serve
+
+// Compilar para produccion
+ng build
